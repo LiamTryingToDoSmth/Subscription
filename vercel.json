@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/sub/:path*",
-      "destination": "https://sg.nextbigstep.cyou:2096/sub/:path*"
+      "destination": "https://jp.nextbigstep.cyou:2096/sub/:path*"
     }
   ]
 }
